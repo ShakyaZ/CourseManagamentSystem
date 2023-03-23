@@ -1,0 +1,8 @@
+Student ID: 1
+Student Name: aayush shakya
+
+Module		Marks
+java		67
+java		45
+java		57
+
